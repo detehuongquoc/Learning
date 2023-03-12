@@ -1,0 +1,12 @@
+- HTML(html schematic, image, link , head...)
+- CSS
+- HTTP - HTTP2
+- Client - server
+- MVC
+- Javscript
+- Reactjs - Angular
+- Cuture fit
+- Behaviors question
+- Pair programing
+- TypeScript
+- git

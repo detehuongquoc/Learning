@@ -1,0 +1,11 @@
+- ls : liệt kê tất cả file trong thư mục.
+  - ls -l : liệt kê tất cả file và chi tiết (ngày, giờ...)
+  - ls -la : liệt kê tất cả file và các file ẩn
+  - ls -R : chạy đệ quy để show ra tất cả các con
+- clear
+- cd (change directory) : thay đổi thư mục đang tương tác
+  - gõ cd và tab 2 lần để xem tất cả các file
+  - cd : quay ra thư mục của mình (nguyenphanhuynhDuc)
+  - cd - : back về thư mục trước đó
+  - cd .. : quay lại 1 cấp
+  - cd / : quay lại thư mục gốc

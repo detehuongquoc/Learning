@@ -1,0 +1,8 @@
+- cat : xem và có thể ghép nối nhiều file với nhau
+  - cat tenfile : xem file
+  - cat demo.html test.html > concat.html (gộp 2 file lại và tạo ra một file mới)
+  - cat > : ghi đè file cũ
+  - cat >> : thêm vào file cũ
+- echo : in ra màn hình
+- tail : xem dòng cuối của file
+  - tail -n 5 : lấy ra 5 dòng

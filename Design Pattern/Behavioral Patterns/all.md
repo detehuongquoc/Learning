@@ -1,0 +1,7 @@
+Observer
+
+Strategy
+
+Command
+
+Iterator

@@ -1,0 +1,16 @@
+- mkdir : tạo ra một thư mục
+  - mkdir TenThuMuc : tạo một thư mục trống
+  - mkdir TenThuMuc/thuMucCon -p : tạo thư mục với thư mục con (đảm bảo các thư mục đều có)
+  - rmdir TenThuMuc : xoá một thư mục trống
+  - rm -r TenThuMuc : xoá một thư mục và cả thư mục con
+- touch : tạo ra một file
+  - touch test.html : tạo file test.html
+- vi : sửa file
+  - vi test.html : tạo file và vào edit file
+    - bộ câu lệnh
+    - i : insert (chế độ sửa file)
+    - esc : thoát ra
+    - :q : để thoát
+    - :q! : thoát mà không lưu lại
+    - :w : lưu file
+    - :wq hoặc :x: lưu và thoát

@@ -1,0 +1,7 @@
+Composite
+
+Adapter
+
+Proxy
+
+Facade

@@ -1,0 +1,5 @@
+- là 1 server đứng trước client và server và có thể chuyển hướng request tới một server phù hợp
+- Loadbalanccer có thể là 1 proxy
+- có rất nhiều load balancer như hardware loadbalance, software loadlaance..
+- có nhiều cách chọn server như random hoặc chọn theo thứ tự (round robin) và có thể dùng trọng số để request nhiều lần vào 1 server vì có một số server mạnh hơn, hoặc dựa vào performance của server, hoặc phân loại theo hash IP address
+- ngxin có thể dùng để load balancer

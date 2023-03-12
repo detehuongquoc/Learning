@@ -1,0 +1,2 @@
+- rendezvous hashing
+- consisting hashing

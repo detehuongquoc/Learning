@@ -1,0 +1,3 @@
+- có document để dễ dàng tìm hiểu, như setup enviroment, những thứ quan trọng...
+- trả lời câu hỏi, bởi vì khi mới join sẽ rất nhiều câu hỏi thắc mắc
+- giao cho những task hoặc bug đơn giản để làm quen, để họ tự tin hơn, những task tránh depen cho những member khác

@@ -1,0 +1,6 @@
+- dùng để caching để giãm thiểu request từ backend cho database hay giảm thiểu reqeust thông qua mạng từ client về server
+- có nhiều loại cache như LRU...
+- khi cachhe cần để ý trade off và có thể cache những data không thể thay đổi
+- nếu data thay đổi thì có 2 cách là change cả cache và dabase
+- cách khác là chỉ change ở cache rồi set vào database sau
+- nhưng cách này sẽ rất dễ bị mất data ở cache và mất thông tin người dùng
