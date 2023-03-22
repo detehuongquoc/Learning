@@ -1,0 +1,10 @@
+- diffrence promise and observalble
+- observable what is
+- what is promise
+- how to eventloop work, javascript
+- what is html sematic
+- JWT workflow
+- secruity
+- flex vs gird
+- clourser, bind, apply, call
+- event delegation(uỷ thác) là gì ? listen event trên thằng cha, không listen ở thằng con and check event.target để biết thằn con nào gọi tới
